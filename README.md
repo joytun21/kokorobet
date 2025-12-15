@@ -23,5 +23,15 @@ Pastikan server Anda memenuhi persyaratan minimum berikut sebelum menjalankan sc
 
 Untuk memulai instalasi ZIVPN di server Anda, cukup jalankan satu baris perintah berikut di terminal SSH:
 
-```bash
-apt update && apt upgrade -y && apt install wget -y && wget -O zivpn-installer [https://raw.githubusercontent.com/joytun21/kokorobet/main/install-zivpn](https://raw.githubusercontent.com/joytun21/kokorobet/main/install-zivpn) && chmod +x zivpn-installer && bash zivpn-installer
+# 1. Unduh Script
+```
+wget https://raw.githubusercontent.com/joytun21/kokorobet/main/install-zivpn
+```
+# 2. Beri Izin Eksekusi
+```
+chmod +x install-zivpn
+```
+# 3. Jalankan Script
+```
+./install-zivpn
+
