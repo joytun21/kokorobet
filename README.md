@@ -1,4 +1,4 @@
-# ⚡ KOKOROBET - ZIVPN Installer
+# ZIVPN Installer
 
 Repository ini menyediakan installer cepat untuk **ZIVPN (ZiVPN)**, sebuah protokol VPN Premium yang dirancang untuk koneksi cepat, aman, dan stabil. ZIVPN adalah bagian dari solusi server yang dikembangkan oleh GerhanaTunnel.
 
